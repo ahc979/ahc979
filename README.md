@@ -4,7 +4,7 @@
 I am interested in:
 
 - 📚 Natural Language Processing
-- 🖼️ Image procesing
+- 🖼️ Image processing
 - 🤖 Machine Learning
 - ⚡ NFTs and Crytocurrency
-- 🤔 Data Science in General
+- 🤔 Data Science in general
